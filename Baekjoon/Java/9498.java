@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		
 		//시험 점수 입력 받기
 		int score = sc.nextInt();
 		
