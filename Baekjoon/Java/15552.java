@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public class Main15552{
+public class Main{
 	public static void main(String[] args)throws IOException {
 		
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
