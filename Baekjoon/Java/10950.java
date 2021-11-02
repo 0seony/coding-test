@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main10950 {
+public class Main{
 	public static void main(String[] args) {
 		// 테스트 케이스 입력받기
 		Scanner sc = new Scanner(System.in);
