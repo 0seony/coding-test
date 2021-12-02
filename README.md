@@ -3,7 +3,7 @@
 ## 백준 알고리즘(단계별)
 <details>
     <summary>입출력과 사칙연산</summary>
-
+    
 * [Hello World](Baekjoon/Java/2557.java)
 * [We love kriii]
 * [고양이]
@@ -14,18 +14,19 @@
 * [A/B]
 * [사칙연산]
 * [나머지]
-* [곱셈]
-  
+* [곱셈]  
+    
 </details>
+
 <details>
     <summary>if문</summary>
-
+    
 * [두 수 비교하기](Baekjoon/Java/1330.java)
 * [시험 성적](Baekjoon/Java/9498.java)
 * [윤년](Baekjoon/Java/2753.java)
 * [사분면 고르기](Baekjoon/Java/14681.java)
-* [알람 시계](Baekjoon/Java/2884.java)
-  
+* [알람 시계](Baekjoon/Java/2884.java)  
+    
 </details>
 
 <details>
@@ -93,19 +94,55 @@
 </details>
 
 <details>
-    <summary>기본수학1</summary> 
+    <summary>기본수학1</summary>
+    
+* [손익분기점]
+* [벌집]
+* [분수찾기]
+* [달팽이는 올라가고 싶다]
+* [ACM 호텔]
+* [부녀회장이 될테야]
+* [설탕 배달]
+* [큰수 A+B]
+* [Fly me to the Alpha Centauri]
+    
 </details>
 
 <details>
-    <summary>기본수학2</summary> 
+    <summary>기본수학2</summary>
+    
+* [소수 찾기]
+* [소수]
+* [소인수분해]
+* [소수 구하기]
+* [베르트랑 공준]
+* [골드바흐의 추측]
+* [직사각형에서 탈출]
+* [네 번째 점]
+* [택시 기하학]
+* [터렛]
+    
 </details>
 
 <details>
-    <summary>재귀</summary> 
+    <summary>재귀</summary>
+    
+* [팩토리얼]
+* [피보나치 수 5]
+* [별 찍기 - 10]
+* [하노이 탑 이동 순서]
+    
 </details>
 
 <details>
-    <summary>브루트 포스</summary> 
+    <summary>브루트 포스</summary>
+    
+* [블랙잭]
+* [분해합]
+* [덩치]
+* [체스판 다시 칠하기]
+* [영화감독 숌]
+    
 </details>
 
 
