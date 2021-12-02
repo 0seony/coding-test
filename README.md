@@ -92,6 +92,22 @@
   
 </details>
 
+<details>
+    <summary>기본수학1</summary> 
+</details>
+
+<details>
+    <summary>기본수학2</summary> 
+</details>
+
+<details>
+    <summary>재귀</summary> 
+</details>
+
+<details>
+    <summary>브루트 포스</summary> 
+</details>
+
 
 ## 프로그래머스(단계별)
 * LEVEL1
