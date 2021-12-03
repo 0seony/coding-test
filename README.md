@@ -4,10 +4,10 @@
 <details>
     <summary>입출력과 사칙연산</summary>
     
-* [Hello World](Baekjoon/Java/2557.java)
-* [We love kriii](Baekjoon/Java/10718.java)
-* [고양이]
-* [개]
+* [Hello World](Baekjoon/Java/2557.java) √
+* [We love kriii](Baekjoon/Java/10718.java) √
+* [고양이](Baekjoon/Java/10171.java)
+* [개](Baekjoon/Java/10172.java)
 * [A+B]
 * [A-B]
 * [AxB]
