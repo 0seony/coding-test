@@ -5,7 +5,7 @@
     <summary>입출력과 사칙연산</summary>
     
 * [Hello World](Baekjoon/Java/2557.java)
-* [We love kriii]
+* [We love kriii](Baekjoon/Java/10718.java)
 * [고양이]
 * [개]
 * [A+B]
