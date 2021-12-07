@@ -8,8 +8,8 @@
 * [We love kriii](Baekjoon/Java/10718.java) √
 * [고양이](Baekjoon/Java/10171.java)
 * [개](Baekjoon/Java/10172.java)
-* [A+B]
-* [A-B]
+* [A+B](Baekjoon/Java/1000.java)
+* [A-B](Baekjoon/Java/1001.java)
 * [AxB]
 * [A/B]
 * [사칙연산]
