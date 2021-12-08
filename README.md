@@ -12,7 +12,7 @@
 * [A-B](Baekjoon/Java/1001.java) √
 * [AxB]
 * [A/B]
-* [사칙연산]
+* [사칙연산](Baekjoon/Java/10869.java)
 * [나머지]
 * [곱셈]  
     
