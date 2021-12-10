@@ -13,8 +13,8 @@
 * [AxB]
 * [A/B]
 * [사칙연산](Baekjoon/Java/10869.java)
-* [나머지]
-* [곱셈]  
+* [나머지](Baekjoon/Java/10430.java)
+* [곱셈](Baekjoon/Java/2588.java)
     
 </details>
 
