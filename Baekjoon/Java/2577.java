@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main2577 {
+public class Main{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();
@@ -20,11 +20,12 @@ public class Main2577 {
 				}
 			}
 			num[i] = Integer.toString(count).charAt(0);
+			System.out.println(num[i]);
 			count = 0;
 		}
 
-		for (int i = 0; i < num.length; i++) {
-			System.out.println(num[i]);
-		}
+//		for (int i = 0; i < num.length; i++) {
+//			System.out.println(num[i]);
+//		}
 	}
 }
