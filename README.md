@@ -60,7 +60,7 @@
 
 * [최소, 최대](Baekjoon/Java/10818.java)
 * [최댓값](Baekjoon/Java/2562.java)
-* [숫자의 개수]
+* [숫자의 개수](Baekjoon/Java/2577.java)
 * [나머지](Baekjoon/Java/3052.java)
 * [평균](Baekjoon/Java/1546.java)
 * [OX퀴즈](Baekjoon/Java/8958.java)
