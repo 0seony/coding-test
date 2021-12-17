@@ -84,7 +84,7 @@
 * [숫자의 합](Baekjoon/Java/11720.java)
 * [알파벳 찾기](Baekjoon/Java/10809.java)
 * [문자열 반복](Baekjoon/Java/2675.java)
-* [단어 공부]
+* [단어 공부](Baekjoon/Java/1157.java)
 * [단어의 개수](Baekjoon/Java/1152.java)
 * [상수](Baekjoon/Java/2908.java)
 * [다이얼]
