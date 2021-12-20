@@ -4,14 +4,14 @@
 <details>
     <summary>입출력과 사칙연산</summary>
     
-* [Hello World](Baekjoon/Java/2557.java) √
-* [We love kriii](Baekjoon/Java/10718.java) √
+* [Hello World](Baekjoon/Java/2557.java)
+* [We love kriii](Baekjoon/Java/10718.java)
 * [고양이](Baekjoon/Java/10171.java)
 * [개](Baekjoon/Java/10172.java)
-* [A+B](Baekjoon/Java/1000.java) √
-* [A-B](Baekjoon/Java/1001.java) √
-* [AxB]
-* [A/B]
+* [A+B](Baekjoon/Java/1000.java)
+* [A-B](Baekjoon/Java/1001.java)
+* [AxB](Baekjoon/Java/10998.java)
+* [A/B](Baekjoon/Java/1008.java)
 * [사칙연산](Baekjoon/Java/10869.java)
 * [나머지](Baekjoon/Java/10430.java)
 * [곱셈](Baekjoon/Java/2588.java)
