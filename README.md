@@ -87,9 +87,9 @@
 * [단어 공부](Baekjoon/Java/1157.java)
 * [단어의 개수](Baekjoon/Java/1152.java)
 * [상수](Baekjoon/Java/2908.java)
-* [다이얼]
-* [크로아티아 알파벳]
-* [그룹]
+* [다이얼](Baekjoon/Java/5622.java)
+* [크로아티아 알파벳](Baekjoon/Java/2941.java)
+* [그룹 단어 체커]
   
 </details>
 
