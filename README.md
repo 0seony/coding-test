@@ -159,5 +159,6 @@
 * [211221 자연수 뒤집어 배열로 만들기](https://github.com/0seony/coding-test/blob/eefdb044cbce2fa38848bf21fd0ab9253e3065d2/Programmers/Java/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
 * [자릿수 더하기](https://github.com/0seony/coding-test/blob/8057e1982df47ddc508e426359aba62255c8b594/Programmers/Java/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
 * [로또의 최고 순위와 최저 순위](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.java)
+* [220105 하샤드 수](https://github.com/0seony/coding-test/blob/8febaeac17a179636a9538c45ee7217d01cc4238/Programmers/Java/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.java)
     
 </details>
