@@ -160,5 +160,7 @@
 * [자릿수 더하기](https://github.com/0seony/coding-test/blob/8057e1982df47ddc508e426359aba62255c8b594/Programmers/Java/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
 * [로또의 최고 순위와 최저 순위](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.java)
 * [220105 하샤드 수](https://github.com/0seony/coding-test/blob/8febaeac17a179636a9538c45ee7217d01cc4238/Programmers/Java/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.java)
+* [220105 콜라츠 추측](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.java)
+* [220105 서울에서 김서방 찾기](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.java)
     
 </details>
