@@ -1,4 +1,4 @@
-# coding-test
+# ⭐Study for coding-test
 
 ## 백준 알고리즘(단계별)
 <details>
@@ -164,5 +164,12 @@
 * [220105 서울에서 김서방 찾기](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.java)
 * [220106 수박수박수박수박수박수?](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.java)
 * [220107 두 정수 사이의 합](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.java)
+    
+</details>
+
+<details>
+    <summary>LEVEL2</summary>
+
+* [220111 최댓값과 최솟값](https://github.com/0seony/coding-test/blob/31588c8f94d542fc7bc882beefc7f03436e58b4e/Programmers/Java/Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.java)
     
 </details>
