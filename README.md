@@ -164,6 +164,10 @@
 * [220105 서울에서 김서방 찾기](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.java)
 * [220106 수박수박수박수박수박수?](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.java)
 * [220107 두 정수 사이의 합](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.java)
+* [220110 행렬의 덧셈](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.java)
+* [220111 약수의 합](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.java)
+* [220112 예산](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%98%88%EC%82%B0.java)
+* [220113 이상한 문자 만들기](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
     
 </details>
 
