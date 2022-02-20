@@ -50,7 +50,7 @@
     
 * [퇴사](https://www.acmicpc.net/problem/14501)
 * [연구소](https://www.acmicpc.net/problem/14502)
-* [SQL-신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
+* [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 * [SQL-모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)
 * [SQL-역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)
     
