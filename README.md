@@ -1,4 +1,8 @@
-## 백준 알고리즘(단계별)
+## :blue_heart:프로그래머스(단계별)
+[Level1](Programmers/Level1)  
+[Level2](Programmers/Level2)
+
+## :green_heart:백준 알고리즘
 <details>
     <summary>입출력과 사칙연산</summary>
     
@@ -140,38 +144,5 @@
 * [덩치]
 * [체스판 다시 칠하기]
 * [영화감독 숌]
-    
-</details>
-
-
-## 프로그래머스(단계별)
-<details>
-    <summary>LEVEL1</summary>
-
-* [직사각형 별찍기](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.java)
-* [x만큼 간격이 있는 n개의 숫자](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.java)
-* [핸드폰 번호 가리기](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.java)
-* [평균 구하기](https://github.com/0seony/coding-test/blob/8057e1982df47ddc508e426359aba62255c8b594/Programmers/Java/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.java)
-* [짝수와 홀수](https://github.com/0seony/coding-test/blob/8057e1982df47ddc508e426359aba62255c8b594/Programmers/Java/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.java)
-* [정수 내림차순으로 배치하기](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%EC%A0%95%EC%88%98%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java)
-* [211221 자연수 뒤집어 배열로 만들기](https://github.com/0seony/coding-test/blob/eefdb044cbce2fa38848bf21fd0ab9253e3065d2/Programmers/Java/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
-* [자릿수 더하기](https://github.com/0seony/coding-test/blob/8057e1982df47ddc508e426359aba62255c8b594/Programmers/Java/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.java)
-* [로또의 최고 순위와 최저 순위](https://github.com/0seony/coding-test/blob/b74dfc41690519ed00cce0f24845c66a061bdfb0/Programmers/Java/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.java)
-* [220105 하샤드 수](https://github.com/0seony/coding-test/blob/8febaeac17a179636a9538c45ee7217d01cc4238/Programmers/Java/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.java)
-* [220105 콜라츠 추측](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%BD%9C%EB%9D%BC%EC%B8%A0%20%EC%B6%94%EC%B8%A1.java)
-* [220105 서울에서 김서방 찾기](https://github.com/0seony/coding-test/blob/6507a48fcccf0071addcc42433890fcfe2e3ca31/Programmers/Java/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.java)
-* [220106 수박수박수박수박수박수?](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.java)
-* [220107 두 정수 사이의 합](https://github.com/0seony/coding-test/blob/c647e360aebd31cdfc96b5dacddfb77503d1c27c/Programmers/Java/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.java)
-* [220110 행렬의 덧셈](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.java)
-* [220111 약수의 합](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.java)
-* [220112 예산](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%98%88%EC%82%B0.java)
-* [220113 이상한 문자 만들기](https://github.com/0seony/coding-test/blob/7a6c35cdf866375cf6746b2f7c1026539db5f633/Programmers/Java/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)
-    
-</details>
-
-<details>
-    <summary>LEVEL2</summary>
-
-* [220111 최댓값과 최솟값](https://github.com/0seony/coding-test/blob/31588c8f94d542fc7bc882beefc7f03436e58b4e/Programmers/Java/Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.java)
     
 </details>
